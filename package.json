@@ -236,7 +236,7 @@
       "vscode-chatgpt-view-container": [
         {
           "type": "webview",
-          "id": "vscode-chatgpt.view",
+          "id": "vscode-chatgpt.view-container-skaddie",
           "name": "Conversation window"
         }
       ]
