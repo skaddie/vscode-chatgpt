@@ -1,13 +1,13 @@
 {
   "name": "vscode-chatgpt",
-  "publisher": "YOUR_PUBLISHER_NAME",
+  "publisher": "skaddie",
   "displayName": "vscode-chatgpt",
   "icon": "images/ai-logo.png",
   "description": "vscode-chatgpt",
   "version": "3.9.7-0",
   "aiKey": "",
   "repository": {
-    "url": "https://github.com/YOUR_PUBLISHER_NAME/vscode-chatgpt"
+    "url": "https://github.com/skaddie/vscode-chatgpt"
   },
   "engines": {
     "vscode": "^1.73.0"
