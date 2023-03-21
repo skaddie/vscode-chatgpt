@@ -228,7 +228,7 @@
         {
           "id": "vscode-chatgpt-view-container",
           "title": "ChatGPT",
-          "icon": "images/ai-logo-in.png"
+          "icon": "images/openai-icon.png"
         }
       ]
     },
